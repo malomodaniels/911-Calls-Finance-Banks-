@@ -1,2 +1,4 @@
 # Data-Analysis-Projects---Finance-and-911-Calls
-These are projects I worked on while starting out Data Analysis with Python Tools
+Python Analytics on two separate datasets.<br>
+										Case I: 911 Calls using 911<br>
+										Case II: Finance Analytics using Python DataReader Datasets
